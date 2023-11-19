@@ -1,0 +1,33 @@
+{
+  "name": "@9akashnp8/eslint-config-node",
+  "version": "1.0.1",
+  "description": "my personal shareable eslint config for node/express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/9akashnp8/eslint-config-node.git"
+  },
+  "author": "Akash NP <hello@akashnp.dev>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/9akashnp8/eslint-config-node/issues"
+  },
+  "homepage": "https://github.com/9akashnp8/eslint-config-node#readme",
+  "dependencies": {
+    "@typescript-eslint/parser": "^6.7.2"
+  },
+  "peerDependencies": {
+    "eslint": "^8.49.0",
+    "prettier": "3.0.3",
+    "eslint-config-prettier": "^9.0.0",
+    "@typescript-eslint/eslint-plugin": "^6.7.2"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig"
+  ]
+}
+  
