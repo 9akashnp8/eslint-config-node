@@ -1,6 +1,6 @@
 {
   "name": "@9akashnp8/eslint-config-node",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "my personal shareable eslint config for node/express",
   "main": "index.js",
   "scripts": {

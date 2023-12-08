@@ -38,6 +38,12 @@
                 "ignoreConsecutiveComments": true,
                 "ignoreInlineComments": true
             }
+        ],
+        "prefer-const": [
+            "error",
+            {
+                "destructuring": "all"
+            }
         ]
     }
 }
